@@ -20,7 +20,7 @@ python main.py
 Here's an example of how to use the Temperature Monitoring Agent:
 
 - **Run the agent using the provided instructions.**
-- **Enter the city name you want to monitor (e.g., "Mumbai").**
+- **Enter the city name you want to monitor (e.g., "Mumbai"). *First letter of city name should be capital.***
 - **Enter your desired minimum temperature (e.g., 20°C).**
 - **Enter your desired maximum temperature (e.g., 30°C).**
 - **The agent will periodically(each 20 seconds. You can change the code for different interval) check the temperature in the selected city.**
